@@ -1,0 +1,40 @@
+body {
+  background-color: #BDE6F1;
+}
+img {
+  background-color: #8E806A;
+  border-radius: 18%;
+}
+
+h3 {
+  background-color: blue;
+  color: yellow;
+  width: 7%;
+}
+
+.croissant:hover {
+  background-color: blue;
+}
+
+.fb {
+  font-size:20px;
+}
+
+.fb:hover {
+  background-color: yellow;
+  font-size: 50px;
+}
+
+.binance {
+  font-size: 30px;
+}
+.binance:visited {
+  color:yellow;
+}
+.binance:hover {
+  color:purple;
+}
+.binance:active {
+  color:red;
+  background-color: orange;
+}
